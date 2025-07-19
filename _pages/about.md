@@ -25,13 +25,12 @@ Hi! My name is Xiaoyang Liu (刘晓洋). I am a first-year Ph.D. student at [Sch
 
 
 # 📝 Publications 
-</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML Workshop</div><img src='images/papers/GTED.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized Tree Edit Distance (GTED): A Faithful Evaluation Metric for Statement Autoformalization](https://arxiv.org/pdf/2507.07399)
 
-Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Guo, Jiashuo Zhang, Kangjie Bao, Tao Luo\†
+Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Guo, Jiashuo Zhang, Kangjie Bao, Tao Luo $\dag$
 
 </div>
 
