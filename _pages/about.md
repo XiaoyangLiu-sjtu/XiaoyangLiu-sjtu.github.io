@@ -30,7 +30,7 @@ Hi! My name is Xiaoyang Liu (刘晓洋). I am a first-year Ph.D. student at [Sch
 
 [Generalized Tree Edit Distance (GTED): A Faithful Evaluation Metric for Statement Autoformalization](https://arxiv.org/pdf/2507.07399)
 
-Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Guo, Jiashuo Zhang, Kangjie Bao, Tao Luo† &dagger $\dagger$
+Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Guo, Jiashuo Zhang, Kangjie Bao, Tao Luo $\dagger$
 
 </div>
 
@@ -41,7 +41,7 @@ Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Gu
 
 [ATLAS: Autoformalizing Theorems through Lifting, Augmentation, and Synthesis of Data](https://arxiv.org/pdf/2502.05567)
 
-**Xiaoyang Liu**, Kangjie Bao, Jiashuo Zhang, Yunqi Liu, Yuntian Liu, Yu Chen, Yang Jiao\†, Tao Luo\†
+**Xiaoyang Liu**, Kangjie Bao, Jiashuo Zhang, Yunqi Liu, Yuntian Liu, Yu Chen, Yang Jiao $\dagger$, Tao Luo $\dagger$
 </div>
 
 
