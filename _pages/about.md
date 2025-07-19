@@ -32,6 +32,7 @@ Hi! My name is Xiaoyang Liu (刘晓洋). I am a first-year Ph.D. student at [Sch
 
 Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Guo, Jiashuo Zhang, Kangjie Bao, Tao Luo $\dagger$
 
+*In ICML Workshop (AI4Math)*, 2025
 </div>
 
 
@@ -42,6 +43,8 @@ Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Gu
 [ATLAS: Autoformalizing Theorems through Lifting, Augmentation, and Synthesis of Data](https://arxiv.org/pdf/2502.05567)
 
 **Xiaoyang Liu**, Kangjie Bao, Jiashuo Zhang, Yunqi Liu, Yuntian Liu, Yu Chen, Yang Jiao $\dagger$, Tao Luo $\dagger$
+
+*In ArXiv*, 2025
 </div>
 
 
