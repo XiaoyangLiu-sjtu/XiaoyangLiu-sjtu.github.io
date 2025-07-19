@@ -20,7 +20,7 @@ redirect_from:
 # 👋 About Me
 Hi! My name is Xiaoyang Liu (刘晓洋). I am Currently pursuing a PhD under the supervision of [Prof. Luo Tao](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0) at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).
 
-I am interested in Lean and AI4MATH, with a particular focus on Autoformalization, Automatic Evaluation, and Automated Theorem Proving. 
+I am interested in Lean and AI4Math, with a particular focus on Autoformalization, Automatic Evaluation, and Automated Theorem Proving. 
 
 
 # 🔥 News
