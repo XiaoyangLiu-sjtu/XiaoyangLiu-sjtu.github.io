@@ -21,11 +21,11 @@ Hi! My name is Xiaoyang Liu (刘晓洋). I am a first-year Ph.D. student at [Sch
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉  One papers are accepted at AI4Math@ICML25!
+- *2025.07*: &nbsp;🎉🎉  One paper is accepted at AI4Math@ICML25!
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML Workshop</div><img src='images/papers/GTED.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML Workshop</div><img src='images/papers/GTED.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized Tree Edit Distance (GTED): A Faithful Evaluation Metric for Statement Autoformalization](https://arxiv.org/pdf/2507.07399)
