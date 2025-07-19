@@ -21,7 +21,7 @@ Hi! My name is Xiaoyang Liu (刘晓洋). I am a first-year Ph.D. student at [Sch
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉  One paper is accepted at AI4Math@ICML25!
+- *2025.07*: &nbsp;🎉🎉  One paper is accepted at ICML 2025 Workshop (AI4Math)!
 
 
 # 📝 Publications 
@@ -42,7 +42,7 @@ Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Gu
 
 [ATLAS: Autoformalizing Theorems through Lifting, Augmentation, and Synthesis of Data](https://arxiv.org/pdf/2502.05567)
 
-**Xiaoyang Liu**, Kangjie Bao, Jiashuo Zhang, Yunqi Liu, Yuntian Liu, Yu Chen, Yang Jiao $\dagger$, Tao Luo $\dagger$
+**Xiaoyang Liu**, Kangjie Bao, Jiashuo Zhang, Yunqi Liu, Yuntian Liu, Yu Chen, Yang Jiao $\dagger$, Tao Luo$\dagger$
 
 *In ArXiv*, 2025
 </div>
