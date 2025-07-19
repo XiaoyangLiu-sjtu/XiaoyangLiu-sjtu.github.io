@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaoyang Liu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : # "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "XiaoyangLiu-sjtu/XiaoyangLiu-sjtu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Xiaoyang Liu"
   avatar           : "images/微信图片_2025-07-19_143531_663.jpg"
   bio              : "PhD student at SJTU"
   location         : "Shanghai, China"
