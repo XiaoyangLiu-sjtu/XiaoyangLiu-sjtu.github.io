@@ -25,12 +25,14 @@ Hi! My name is Xiaoyang Liu (刘晓洋). I am a first-year Ph.D. student at [Sch
 
 
 # 📝 Publications 
+\* denotes Equal Contribution, $\dagger$ denotes Corresponding Author.
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML Workshop</div><img src='images/papers/GTED.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized Tree Edit Distance (GTED): A Faithful Evaluation Metric for Statement Autoformalization](https://arxiv.org/pdf/2507.07399)
 
-Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Guo, Jiashuo Zhang, Kangjie Bao, Tao Luo $\dagger$
+Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Guo, Jiashuo Zhang, Kangjie Bao, Tao Luo$\dagger$
 
 *In ICML Workshop (AI4Math)*, 2025
 </div>
@@ -42,7 +44,7 @@ Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Gu
 
 [ATLAS: Autoformalizing Theorems through Lifting, Augmentation, and Synthesis of Data](https://arxiv.org/pdf/2502.05567)
 
-**Xiaoyang Liu**, Kangjie Bao, Jiashuo Zhang, Yunqi Liu, Yuntian Liu, Yu Chen, Yang Jiao $\dagger$, Tao Luo$\dagger$
+**Xiaoyang Liu**, Kangjie Bao, Jiashuo Zhang, Yunqi Liu, Yuntian Liu, Yu Chen, Yang Jiao$\dagger$, Tao Luo$\dagger$
 
 *In ArXiv*, 2025
 </div>
