@@ -21,13 +21,13 @@ redirect_from:
 # 👋 About Me
 Hi! My name is Xiaoyang Liu (刘晓洋). I am currently pursuing a PhD under the supervision of [Prof. Tao Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0) at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).
 
-I am interested in AI4MATH and LEAN, with a particular focus on Autoformalization, Automated Evaluation, and Automated Theorem Proving. I am actively seeking collaboration opportunities and interesting problems to solve. If you'd like to work together, please reach out at [xiaoyang.liu@sjtu.edu.cn](xiaoyang.liu@sjtu.edu.cn).
+I am interested in AI4Math and LEAN, with a particular focus on Autoformalization and Automated Evaluation. I am actively seeking collaboration opportunities and interesting problems to solve. If you'd like to work together, please reach out at [xiaoyang.liu@sjtu.edu.cn](xiaoyang.liu@sjtu.edu.cn).
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉  Paper ATLAS is accepted at NeurIPS 2025!
+- *2025.09*: 🎉 Paper ATLAS is accepted at NeurIPS 2025!
 
-- *2025.07*: &nbsp;🎉🎉  Paper GTED is accepted at ICML 2025 Workshop (AI4Math)!
+- *2025.07*: 🎉 Paper GTED is accepted at ICML 2025 Workshop (AI4Math)!
 
 
 # 📝 Publications 
@@ -43,8 +43,7 @@ I am interested in AI4MATH and LEAN, with a particular focus on Autoformalizatio
 *In NeurIPS*, 2025
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Workshop</div><img src='images/papers/GTED.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Workshop (AI4Math)</div><img src='images/papers/GTED.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Generalized Tree Edit Distance (GTED): A Faithful Evaluation Metric for Statement Autoformalization](https://arxiv.org/pdf/2507.07399)
