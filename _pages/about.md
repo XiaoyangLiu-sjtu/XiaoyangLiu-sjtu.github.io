@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
 # 👋 About Me
 Hi! My name is Xiaoyang Liu (刘晓洋). I am currently pursuing a PhD under the supervision of [Prof. Tao Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0) at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).
 
-I am interested in AI4MATH and LEAN, with a particular focus on Autoformalization, Automatic Evaluation, and Automated Theorem Proving. I am actively seeking collaboration opportunities and interesting problems to solve. If you'd like to work together, please reach out at [xiaoyang.liu@sjtu.edu.cn](xiaoyang.liu@sjtu.edu.cn).
+I am interested in AI4MATH and LEAN, with a particular focus on Autoformalization, Automated Evaluation, and Automated Theorem Proving. I am actively seeking collaboration opportunities and interesting problems to solve. If you'd like to work together, please reach out at [xiaoyang.liu@sjtu.edu.cn](xiaoyang.liu@sjtu.edu.cn).
 
 
 # 🔥 News
@@ -32,18 +33,6 @@ I am interested in AI4MATH and LEAN, with a particular focus on Autoformalizatio
 # 📝 Publications 
 \* denotes Equal Contribution, $\dagger$ denotes Corresponding Author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Workshop</div><img src='images/papers/GTED.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Generalized Tree Edit Distance (GTED): A Faithful Evaluation Metric for Statement Autoformalization](https://arxiv.org/pdf/2507.07399)
-
-Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Guo, Jiashuo Zhang, Kangjie Bao, Tao Luo$\dagger$
-
-*In ICML Workshop (AI4Math)*, 2025
-</div>
-
-
-</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/ATLAS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,6 +41,17 @@ Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Gu
 **Xiaoyang Liu**, Kangjie Bao, Jiashuo Zhang, Yunqi Liu, Yuntian Liu, Yu Chen, Yang Jiao$\dagger$, Tao Luo$\dagger$
 
 *In NeurIPS*, 2025
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Workshop</div><img src='images/papers/GTED.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Generalized Tree Edit Distance (GTED): A Faithful Evaluation Metric for Statement Autoformalization](https://arxiv.org/pdf/2507.07399)
+
+Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Guo, Jiashuo Zhang, Kangjie Bao, Tao Luo$\dagger$
+
+*In ICML Workshop (AI4Math)*, 2025
 </div>
 
 
