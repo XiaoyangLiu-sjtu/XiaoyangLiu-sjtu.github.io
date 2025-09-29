@@ -36,7 +36,7 @@ I am interested in AI4Math and Lean, with a particular focus on Autoformalizatio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/ASSESS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ASSESS: A Semantic and Structural Evaluation Framework for Statement Similarity](https://arxiv.org/pdf/2502.05567)
+[ASSESS: A Semantic and Structural Evaluation Framework for Statement Similarity](https://arxiv.org/pdf/2509.22246)
 
 **Xiaoyang Liu\***, Tao Zhu\*, Zineng Dong, Yuntian Liu, Qingfeng Guo, Zhaoxuan Liu, Yu Chen, Tao Luo$\dagger$
 
