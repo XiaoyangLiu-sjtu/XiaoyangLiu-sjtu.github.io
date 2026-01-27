@@ -25,6 +25,8 @@ I am interested in AI4Math and Lean, with a particular focus on Autoformalizatio
 
 
 # 🔥 News
+- *2026.01*: 🎉 Paper ASSESS is accepted at ICLR 2026!
+
 - *2025.09*: 🎉 Paper ATLAS is accepted at NeurIPS 2025!
 
 - *2025.07*: 🎉 Paper GTED is accepted at ICML 2025 Workshop (AI4Math)!
@@ -33,14 +35,14 @@ I am interested in AI4Math and Lean, with a particular focus on Autoformalizatio
 # 📝 Publications 
 \* denotes Equal Contribution, $\dagger$ denotes Corresponding Author.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/ASSESS.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/ASSESS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ASSESS: A Semantic and Structural Evaluation Framework for Statement Similarity](https://arxiv.org/pdf/2509.22246)
 
 **Xiaoyang Liu\***, Tao Zhu\*, Zineng Dong, Yuntian Liu, Qingfeng Guo, Zhaoxuan Liu, Yu Chen, Tao Luo$\dagger$
 
-*In arXiv*, 2025
+*In ICLR*, 2026
 </div>
 </div>
 
@@ -50,7 +52,7 @@ I am interested in AI4Math and Lean, with a particular focus on Autoformalizatio
 
 [ATLAS: Autoformalizing Theorems through Lifting, Augmentation, and Synthesis of Data](https://arxiv.org/pdf/2502.05567)
 
-**Xiaoyang Liu**, Kangjie Bao, Jiashuo Zhang, Yunqi Liu, Yuntian Liu, Yu Chen, Yang Jiao$\dagger$, Tao Luo$\dagger$
+**Xiaoyang Liu**, Kangjie Bao, Jiashuo Zhang, Yunqi Liu, Yu Chen, Yuntian Liu, Yang Jiao$\dagger$, Tao Luo$\dagger$
 
 *In NeurIPS*, 2025
 </div>
