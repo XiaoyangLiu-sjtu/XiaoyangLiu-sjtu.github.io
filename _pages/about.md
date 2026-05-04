@@ -25,6 +25,8 @@ I am interested in AI4Math and Lean, with a particular focus on Autoformalizatio
 
 
 # 🔥 News
+- *2026.05*: 🎉 Paper DSR and FormalRx are accepted at ICML 2026!
+
 - *2026.01*: 🎉 Paper ASSESS is accepted at ICLR 2026!
 
 - *2025.09*: 🎉 Paper ATLAS is accepted at NeurIPS 2025!
@@ -34,6 +36,30 @@ I am interested in AI4Math and Lean, with a particular focus on Autoformalizatio
 
 # 📝 Publications 
 \* denotes Equal Contribution, $\dagger$ denotes Corresponding Author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/DSR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Decompose, Structure, and Repair: A Neuro-Symbolic Framework for Autoformalization via Operator Trees](https://arxiv.org/abs/2604.19000)
+
+**Xiaoyang Liu**, Zineng Dong, Yifan Bai, Yantao Li, Yuntian Liu, Tao Luo$\dagger$
+
+*In ICML*, 2026
+</div>
+</div>
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/FormalRx.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FormalRx: Rectify and eXamine Semantic Failures in Autoformalization]()
+
+Haocheng Wang, Baiyu Huang, Yingjia Wan, Xiao Zhu, **Xiaoyang Liu**, Yinya Huang, Zhijiang Guo$\dagger$
+
+*In ICML*, 2026
+</div>
+</div> -->
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/ASSESS.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
