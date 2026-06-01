@@ -21,7 +21,7 @@ redirect_from:
 # 👋 About Me
 Hi! My name is Xiaoyang Liu (刘晓洋). I am currently pursuing a PhD under the supervision of [Prof. Tao Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0) at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).
 
-I am interested in AI4Math and Lean, with a particular focus on Autoformalization and Automated Evaluation. I am actively seeking collaboration opportunities and interesting problems to solve. If you'd like to work together, please reach out at [xiaoyang.liu@sjtu.edu.cn](xiaoyang.liu@sjtu.edu.cn).
+My research interests lie at the intersection of AI4Math and formal verification (Lean), with a primary focus on autoformalization and automated evaluation. I am actively seeking collaboration opportunities and interesting problems to solve. If you'd like to work together, please reach out at [xiaoyang.liu@sjtu.edu.cn](xiaoyang.liu@sjtu.edu.cn).
 
 
 # 🔥 News
@@ -49,16 +49,16 @@ I am interested in AI4Math and Lean, with a particular focus on Autoformalizatio
 </div>
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/FormalRx.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/FormalRx.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FormalRx: Rectify and eXamine Semantic Failures in Autoformalization]()
+[FormalRx: Rectify and eXamine Semantic Failures in Autoformalization](https://arxiv.org/abs/)
 
-Haocheng Wang, Baiyu Huang, Yingjia Wan, Xiao Zhu, **Xiaoyang Liu**, Yinya Huang, Zhijiang Guo$\dagger$
+Haocheng Wang\*, Baiyu Huang\*, Yingjia Wan\*, Xiao Zhu, **Xiaoyang Liu**, Yinya Huang$\dagger$, Zhijiang Guo$\dagger$
 
 *In ICML*, 2026
 </div>
-</div> -->
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/papers/ASSESS.jpg' alt="sym" width="100%"></div></div>
@@ -98,19 +98,19 @@ Yuntian Liu\*, Tao Zhu\*, **Xiaoyang Liu\***, Yu Chen, Zhaoxuan Liu, Qingfeng Gu
 
 
 # 📖 Educations
-- *2024.09 - now*: Ph.D. in Applied Mathematics, Shanghai Jiao Tong University.
+- *2024.09 - Present(Expected 2028.06)*: Ph.D. in Applied Mathematics, Shanghai Jiao Tong University.
 - *2023.09 - 2024.06*: M.S. in Data-Driven Modeling, Hong Kong University of Science and Technology.
-- *2019.09 - 2023.06*: B.S. in Information and Computing Science, Jinan University.
+- *2019.09 - 2023.06*: B.S. in Information and Computing Science, Jinan University (暨南大学).
+
+
+# 💬 Invited Talks
+- *2025.07*, AI4Math Workshop @ SJTU, Shanghai, China. 
+- *2026.07*, AI4Math Workshop @ ZJU, Hangzhou, China.
 
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 
 # 💻 Internships
