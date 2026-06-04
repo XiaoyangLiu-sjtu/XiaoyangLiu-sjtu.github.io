@@ -19,9 +19,11 @@ redirect_from:
 
 
 # 👋 About Me
-Hi! My name is Xiaoyang Liu (刘晓洋). I am currently pursuing a PhD under the supervision of [Prof. Tao Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0) at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).
+<b><span style="color:red;">As a PhD student expected to graduate in 2028, I am currently actively seeking LLM-related research internship opportunities to further my academic and industrial journey. If you have any relevant openings or are interested in academic collaborations, please feel free to contact me at [xiaoyang.liu@sjtu.edu.cn](xiaoyang.liu@sjtu.edu.cn).</span></b>
 
-My research interests lie at the intersection of AI4Math and formal verification (Lean), with a primary focus on autoformalization and automated evaluation. I am actively seeking collaboration opportunities and interesting problems to solve. If you'd like to work together, please reach out at [xiaoyang.liu@sjtu.edu.cn](xiaoyang.liu@sjtu.edu.cn).
+Hi! My name is Xiaoyang Liu (刘晓洋). I am a second-year PhD candidate advised by [Prof. Tao Luo](https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0) at [School of Mathematical Sciences](https://math.sjtu.edu.cn/Default/index/), [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/).
+
+My research lies at the intersection of Large Language Models (LLMs) and formal verification (Lean), specifically focusing on AI4Math and Verifiable Code Generation.
 
 
 # 🔥 News
