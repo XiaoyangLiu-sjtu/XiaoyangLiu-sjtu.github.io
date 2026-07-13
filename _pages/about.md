@@ -42,7 +42,7 @@ My research lies at the intersection of Large Language Models (LLMs) and formal 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/DSR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Decompose, Structure, and Repair: A Neuro-Symbolic Framework for Autoformalization via Operator Trees](https://arxiv.org/abs/2604.19000)
+[Decompose, Structure, and Repair: A Neuro-Symbolic Framework for Autoformalization via Operator Trees](https://arxiv.org/pdf/2604.19000)
 
 **Xiaoyang Liu**, Zineng Dong, Yifan Bai, Yantao Li, Yuntian Liu, Tao Luo$\dagger$
 
@@ -54,7 +54,7 @@ My research lies at the intersection of Large Language Models (LLMs) and formal 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/FormalRx.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FormalRx: Rectify and eXamine Semantic Failures in Autoformalization](https://arxiv.org/abs/)
+[FormalRx: Rectify and eXamine Semantic Failures in Autoformalization](https://arxiv.org/pdf/2607.04655)
 
 Haocheng Wang\*, Baiyu Huang\*, Yingjia Wan\*, Xiao Zhu, **Xiaoyang Liu**, Yinya Huang$\dagger$, Zhijiang Guo$\dagger$
 
