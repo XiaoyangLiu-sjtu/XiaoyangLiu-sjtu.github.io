@@ -12,13 +12,13 @@ redirect_from:
 <section class="profile-hero" id="about" aria-labelledby="profile-title">
   <div class="profile-hero__content">
     <h1 id="profile-title">Xiaoyang Liu <span lang="zh-CN">刘晓洋</span></h1>
-    <p class="profile-hero__statement">I am a second-year PhD candidate advised by <a href="https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0" target="_blank" rel="noopener noreferrer">Prof. Tao Luo</a> at <a href="https://math.sjtu.edu.cn/Default/index/" target="_blank" rel="noopener noreferrer">School of Mathematical Sciences</a>, <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University (SJTU)</a>.</p>
-    <p class="availability">Seeking a Research Intern position in LLM post-training, available immediately for a full-time internship.</p>
     <nav class="profile-links" aria-label="Profile links">
       <a href="mailto:xiaoyang.liu@sjtu.edu.cn"><i class="fas fa-envelope" aria-hidden="true"></i>Email</a>
       <a href="https://scholar.google.com/citations?user=BKTfL-gAAAAJ" target="_blank" rel="noopener noreferrer"><i class="fas fa-graduation-cap" aria-hidden="true"></i>Google Scholar</a>
       <a href="https://github.com/XiaoyangLiu-sjtu" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i>GitHub</a>
     </nav>
+    <p class="profile-hero__statement">I am a second-year PhD candidate advised by <a href="https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0" target="_blank" rel="noopener noreferrer">Prof. Tao Luo</a> at <a href="https://math.sjtu.edu.cn/Default/index/" target="_blank" rel="noopener noreferrer">School of Mathematical Sciences</a>, <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University (SJTU)</a>.</p>
+    <p class="availability">Seeking a Research Intern position in LLM post-training, available immediately for a full-time internship.</p>
   </div>
   <figure class="profile-hero__portrait">
     <img src="/images/profile-photo.jpg" alt="Portrait of Xiaoyang Liu" width="2122" height="2484">
