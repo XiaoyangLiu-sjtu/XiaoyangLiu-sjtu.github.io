@@ -12,7 +12,6 @@ redirect_from:
 <section class="profile-hero" id="about" aria-labelledby="profile-title">
   <div class="profile-hero__content">
     <h1 id="profile-title">Xiaoyang Liu <span lang="zh-CN">刘晓洋</span></h1>
-    <p class="profile-hero__role">PhD Student at Shanghai Jiao Tong University</p>
     <p class="profile-hero__statement">I am a second-year PhD candidate advised by <a href="https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0" target="_blank" rel="noopener noreferrer">Prof. Tao Luo</a> at <a href="https://math.sjtu.edu.cn/Default/index/" target="_blank" rel="noopener noreferrer">School of Mathematical Sciences</a>, <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University (SJTU)</a>.</p>
     <p class="availability">Seeking a Research Intern position in LLM post-training, available immediately for a full-time internship.</p>
     <nav class="profile-links" aria-label="Profile links">
@@ -37,8 +36,8 @@ redirect_from:
     <div class="research-areas">
       <article>
         <p class="research-areas__number">A</p>
-        <h3>Scalable Autoformalization</h3>
-        <p>Bootstrapping formal reasoning through scalable data synthesis in <strong>ATLAS</strong> and structural operator-tree refinement in <strong>DSR</strong>.</p>
+        <h3>Autoformalization</h3>
+        <p>Bootstrapping autoformalization through scalable data synthesis in <strong>ATLAS</strong> and structural operator-tree refinement in <strong>DSR</strong>.</p>
       </article>
       <article>
         <p class="research-areas__number">B</p>
@@ -47,7 +46,7 @@ redirect_from:
       </article>
       <article>
         <p class="research-areas__number">C</p>
-        <h3>Specification Stress Testing</h3>
+        <h3>Specification Testing</h3>
         <p>Scaling adversarial test suites with <strong>VeriScale</strong> to rigorously assess the soundness and completeness of formal specifications.</p>
       </article>
     </div>
@@ -144,7 +143,7 @@ redirect_from:
 </div>
 
 <footer class="home-footer">
-  <p class="home-footer__statement">Interested in reliable AI for mathematical reasoning?</p>
+  <p class="home-footer__statement">Interested in reliable AI for mathematical reasoning and code generation?</p>
   <a href="mailto:xiaoyang.liu@sjtu.edu.cn">xiaoyang.liu@sjtu.edu.cn</a>
   <p class="home-footer__meta">Xiaoyang Liu · Shanghai, China</p>
 </footer>
