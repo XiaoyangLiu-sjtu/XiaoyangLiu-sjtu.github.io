@@ -35,17 +35,14 @@ redirect_from:
     <p class="section-lead">I develop verifiable AI systems that bridge informal reasoning and formal verification. My research addresses the core challenges of trustworthy reasoning through scalable autoformalization, faithful evaluation and diagnosis, and rigorous adversarial testing.</p>
     <div class="research-areas">
       <article>
-        <p class="research-areas__number">A</p>
         <h3>Autoformalization</h3>
         <p>Bootstrapping autoformalization through scalable data synthesis in <strong>ATLAS</strong> and structural operator-tree refinement in <strong>DSR</strong>.</p>
       </article>
       <article>
-        <p class="research-areas__number">B</p>
         <h3>Evaluation &amp; Diagnosis</h3>
         <p>Building faithful structural-semantic metrics with <strong>ASSESS</strong> and white-box diagnostic models with <strong>FormalRx</strong>.</p>
       </article>
       <article>
-        <p class="research-areas__number">C</p>
         <h3>Specification Testing</h3>
         <p>Scaling adversarial test suites with <strong>VeriScale</strong> to rigorously assess the soundness and completeness of formal specifications.</p>
       </article>
