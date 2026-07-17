@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Xiaoyang Liu"
-description              : "Xiaoyang Liu's personal academic homepage."
+description              : "Xiaoyang Liu is a PhD student at SJTU researching autoformalization, AI for mathematics, and verifiable code generation."
+url                      : "https://xiaoyangliu-sjtu.github.io"
 repository               : "XiaoyangLiu-sjtu/XiaoyangLiu-sjtu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,11 +24,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaoyang Liu"
   avatar           : "images/profile-photo.jpg"
-  bio              : "PhD student at SJTU"
+  bio              : "PhD student working on AI for mathematics and formal verification"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=BKTfL-gAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=BKTfL-gAAAAJ"
   email            : "xiaoyang.liu@sjtu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
