@@ -145,8 +145,14 @@ a {
   grid-template-columns: minmax(0, 1fr) 244px;
   gap: 5rem;
   align-items: center;
-  min-height: 530px;
-  padding: 4.5rem 0 5rem;
+  min-height: 480px;
+  padding: 3.5rem 0 4rem;
+}
+
+.profile-hero__content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
 }
 
 .section-index,
@@ -181,9 +187,9 @@ a {
   font-weight: 400;
 }
 
-.profile-hero__statement {
+.page__content .profile-hero__statement {
   max-width: 660px;
-  margin: 2rem 0 0;
+  margin: 1.75rem 0 0;
   color: $ink;
   font-family: $header-font-family;
   font-size: 1.55rem;
@@ -194,7 +200,7 @@ a {
   display: flex;
   flex-wrap: wrap;
   gap: 0.75rem 1.5rem;
-  margin-top: 1.35rem;
+  margin-top: 1.15rem;
 }
 
 .profile-links a {
@@ -217,8 +223,9 @@ a {
   }
 }
 
-.availability {
-  margin: 1.7rem 0 0;
+.page__content .availability {
+  max-width: 680px;
+  margin: 1.45rem 0 0;
   padding-left: 0.9rem;
   color: #4c5861;
   font-size: 0.86rem;
@@ -622,11 +629,6 @@ a {
     width: 112px;
   }
 
-  .profile-hero__content {
-    display: flex;
-    flex-direction: column;
-  }
-
   .profile-hero h1 {
     order: 1;
     max-width: calc(100% - 132px);
@@ -637,7 +639,7 @@ a {
     font-size: 2.15rem;
   }
 
-  .profile-hero__statement {
+  .page__content .profile-hero__statement {
     order: 2;
     margin-top: 5rem;
     padding-top: 3rem;
@@ -650,7 +652,7 @@ a {
     margin-top: 1.5rem;
   }
 
-  .availability {
+  .page__content .availability {
     order: 3;
     margin-top: 1.35rem;
   }
