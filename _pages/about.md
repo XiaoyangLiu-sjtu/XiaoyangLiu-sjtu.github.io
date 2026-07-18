@@ -90,6 +90,16 @@ redirect_from:
 
     <article class="publication">
       <div class="publication__body">
+        <p class="publication__venue">ICML 2026 · AI4Math Workshop</p>
+        <h3><a href="https://arxiv.org/abs/2605.22368v1" target="_blank" rel="noopener noreferrer">VeriScale: Adversarial Test-Suite Scaling for Verifiable Code Generation</a></h3>
+        <p class="publication__authors">Yifan Bai<sup>*</sup>, <strong>Xiaoyang Liu<sup>*</sup></strong>, Zihao Mou, Guihong Wang, Jian Yu, Shuhan Xie, Yantao Li, Yangyu Zhang, Jingwei Liang<sup>†</sup>, Tao Luo<sup>†</sup></p>
+        <p class="publication__summary">An adversarial framework that expands and reduces test suites to expose unsound or incomplete formal specifications in verifiable code generation.</p>
+        <p class="publication__links"><a href="https://arxiv.org/pdf/2605.22368v1" target="_blank" rel="noopener noreferrer">PDF</a><a href="https://arxiv.org/abs/2605.22368v1" target="_blank" rel="noopener noreferrer">arXiv</a><a href="https://github.com/XiaoyangLiu-sjtu/VeriScale" target="_blank" rel="noopener noreferrer">GitHub</a></p>
+      </div>
+    </article>
+
+    <article class="publication">
+      <div class="publication__body">
         <p class="publication__venue">NeurIPS 2025</p>
         <h3><a href="https://arxiv.org/abs/2502.05567" target="_blank" rel="noopener noreferrer">ATLAS: Autoformalizing Theorems through Lifting, Augmentation, and Synthesis of Data</a></h3>
         <p class="publication__authors"><strong>Xiaoyang Liu</strong>, Kangjie Bao, Jiashuo Zhang, Yunqi Liu, Yu Chen, Yuntian Liu, Yang Jiao<sup>†</sup>, Tao Luo<sup>†</sup></p>
