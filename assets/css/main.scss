@@ -227,7 +227,7 @@ a {
   margin: 1.45rem 0 0;
   padding-left: 0.9rem;
   color: #4c5861;
-  font-size: 0.86rem;
+  font-size: 0.95rem;
   border-left: 3px solid $accent-red;
 }
 
@@ -437,6 +437,12 @@ a {
   border-top: 1px solid $rule;
 }
 
+#education {
+  width: max-content;
+  max-width: 100%;
+  justify-self: end;
+}
+
 .home-section--compact {
   display: block;
   padding: 4.5rem 0;
@@ -603,6 +609,12 @@ a {
   .biography-grid {
     grid-template-columns: 1fr;
     gap: 0;
+  }
+
+  #education {
+    width: auto;
+    max-width: none;
+    justify-self: stretch;
   }
 
   .home-section--compact + .home-section--compact {
