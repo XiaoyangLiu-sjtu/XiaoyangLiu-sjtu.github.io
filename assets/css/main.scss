@@ -227,7 +227,7 @@ a {
   margin: 1.45rem 0 0;
   padding-left: 0.9rem;
   color: #4c5861;
-  font-size: 0.95rem;
+  font-size: 1rem;
   border-left: 3px solid $accent-red;
 }
 
@@ -432,7 +432,8 @@ a {
 
 .biography-grid {
   display: grid;
-  grid-template-columns: max-content minmax(0, 1fr);
+  grid-template-columns: max-content minmax(0, max-content);
+  justify-content: space-between;
   gap: 5rem;
   border-top: 1px solid $rule;
 }

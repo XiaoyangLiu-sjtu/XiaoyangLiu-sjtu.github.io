@@ -128,9 +128,9 @@ redirect_from:
     </div>
     <div class="section-content">
       <ol class="timeline-list">
-        <li><time datetime="2026-08">Aug 2026</time><p>CSML, Shanghai Jiao Tong University<br><span>Shanghai, China</span></p></li>
-        <li><time datetime="2026-07">Jul 2026</time><p>AI4Math Workshop, Zhejiang University<br><span>Hangzhou, China</span></p></li>
-        <li><time datetime="2025-07">Jul 2025</time><p>AI4Math Workshop, Shanghai Jiao Tong University<br><span>Shanghai, China</span></p></li>
+        <li><time datetime="2026-08">Aug 2026</time><p><strong>CSML, Shanghai Jiao Tong University</strong><br><span>Shanghai, China</span></p></li>
+        <li><time datetime="2026-07">Jul 2026</time><p><strong>AI4Math Workshop, Zhejiang University</strong><br><span>Hangzhou, China</span></p></li>
+        <li><time datetime="2025-07">Jul 2025</time><p><strong>AI4Math Workshop, Shanghai Jiao Tong University</strong><br><span>Shanghai, China</span></p></li>
       </ol>
     </div>
   </section>
