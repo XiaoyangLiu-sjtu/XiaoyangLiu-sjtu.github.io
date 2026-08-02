@@ -84,7 +84,7 @@ redirect_from:
         <h3><a href="https://arxiv.org/abs/2607.04655" target="_blank" rel="noopener noreferrer">FormalRx: Rectify and eXamine Semantic Failures in Autoformalization</a></h3>
         <p class="publication__authors">Haocheng Wang<sup>*</sup>, Baiyu Huang<sup>*</sup>, Yingjia Wan<sup>*</sup>, Xiao Zhu, <strong>Xiaoyang Liu</strong>, Yinya Huang<sup>†</sup>, Zhijiang Guo<sup>†</sup></p>
         <p class="publication__summary">A framework for detecting, examining, and rectifying semantic failures in autoformalized statements.</p>
-        <p class="publication__links"><a href="https://arxiv.org/pdf/2607.04655" target="_blank" rel="noopener noreferrer">PDF</a><a href="https://arxiv.org/abs/2607.04655" target="_blank" rel="noopener noreferrer">arXiv</a></p>
+        <p class="publication__links"><a href="https://arxiv.org/pdf/2607.04655" target="_blank" rel="noopener noreferrer">PDF</a><a href="https://arxiv.org/abs/2607.04655" target="_blank" rel="noopener noreferrer">arXiv</a><a href="https://huggingface.co/collections/LARK-Lab/formalrx" target="_blank" rel="noopener noreferrer">HuggingFace</a></p>
       </div>
     </article>
 
