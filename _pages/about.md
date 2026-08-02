@@ -18,7 +18,7 @@ redirect_from:
       <a href="https://github.com/XiaoyangLiu-sjtu" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i>GitHub</a>
     </nav>
     <p class="profile-hero__statement">I am a second-year PhD candidate advised by <a href="https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0" target="_blank" rel="noopener noreferrer">Prof. Tao Luo</a> at <a href="https://math.sjtu.edu.cn/Default/index/" target="_blank" rel="noopener noreferrer">School of Mathematical Sciences</a>, <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University (SJTU)</a>.</p>
-    <p class="availability">Looking to turn research ideas into reliable LLM systems: I am available immediately for a full-time research internship in LLM post-training.</p>
+    <p class="availability">I have started an internship at the Wizard Intelligence Learning Lab (WILL) as a post-training researcher.</p>
   </div>
   <figure class="profile-hero__portrait">
     <img src="/images/profile-photo.jpg" alt="Portrait of Xiaoyang Liu" width="2122" height="2484">
@@ -129,6 +129,7 @@ redirect_from:
     <div class="section-content">
       <ol class="timeline-list">
         <li><time datetime="2026-07">Jul 2026</time><p>AI4Math Workshop, Zhejiang University<br><span>Hangzhou, China</span></p></li>
+        <li><time datetime="2025-08">Aug 2025</time><p>CSML, Shanghai Jiao Tong University<br><span>Shanghai, China</span></p></li>
         <li><time datetime="2025-07">Jul 2025</time><p>AI4Math Workshop, Shanghai Jiao Tong University<br><span>Shanghai, China</span></p></li>
       </ol>
     </div>

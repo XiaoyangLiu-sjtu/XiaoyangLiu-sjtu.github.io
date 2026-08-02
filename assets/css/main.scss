@@ -432,7 +432,7 @@ a {
 
 .biography-grid {
   display: grid;
-  grid-template-columns: 0.8fr 1.2fr;
+  grid-template-columns: max-content minmax(0, 1fr);
   gap: 5rem;
   border-top: 1px solid $rule;
 }
