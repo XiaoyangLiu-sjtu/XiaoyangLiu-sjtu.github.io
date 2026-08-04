@@ -18,7 +18,7 @@ redirect_from:
       <a href="https://github.com/XiaoyangLiu-sjtu" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i>GitHub</a>
     </nav>
     <p class="profile-hero__statement">I am a second-year PhD candidate advised by <a href="https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0" target="_blank" rel="noopener noreferrer">Prof. Tao Luo</a> at <a href="https://math.sjtu.edu.cn/Default/index/" target="_blank" rel="noopener noreferrer">School of Mathematical Sciences</a>, <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University (SJTU)</a>.</p>
-    <p class="availability">I have started an internship at the Wizard Intelligence Learning Lab (WILL) as a post-training researcher.</p>
+    <p class="availability">I have been interning at the Wizard Intelligence Learning Lab (WILL) as a post-training researcher since July 2026.</p>
   </div>
   <figure class="profile-hero__portrait">
     <img src="/images/profile-photo.jpg" alt="Portrait of Xiaoyang Liu" width="2122" height="2484">
