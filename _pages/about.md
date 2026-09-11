@@ -17,7 +17,7 @@ redirect_from:
       <a href="https://scholar.google.com/citations?user=BKTfL-gAAAAJ" target="_blank" rel="noopener noreferrer"><i class="fas fa-graduation-cap" aria-hidden="true"></i>Google Scholar</a>
       <a href="https://github.com/XiaoyangLiu-sjtu" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i>GitHub</a>
     </nav>
-    <p class="profile-hero__statement">I am a second-year PhD candidate advised by <a href="https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0" target="_blank" rel="noopener noreferrer">Prof. Tao Luo</a> at <a href="https://math.sjtu.edu.cn/Default/index/" target="_blank" rel="noopener noreferrer">School of Mathematical Sciences</a>, <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University (SJTU)</a>.</p>
+    <p class="profile-hero__statement">I am a third-year PhD candidate advised by <a href="https://math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLKIet0" target="_blank" rel="noopener noreferrer">Prof. Tao Luo</a> at <a href="https://math.sjtu.edu.cn/Default/index/" target="_blank" rel="noopener noreferrer">School of Mathematical Sciences</a>, <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University (SJTU)</a>.</p>
     <p class="availability">I have been interning at the Wizard Intelligence Learning Lab (WILL) as a post-training researcher since July 2026.</p>
   </div>
   <figure class="profile-hero__portrait">
@@ -151,7 +151,7 @@ redirect_from:
 </div>
 
 <footer class="home-footer">
-  <p class="home-footer__statement">Interested in reliable AI for mathematical reasoning and code generation?</p>
+  <p class="home-footer__statement">Last updated: September 2026</p>
   <a href="mailto:xiaoyang.liu@sjtu.edu.cn">xiaoyang.liu@sjtu.edu.cn</a>
   <p class="home-footer__meta">Xiaoyang Liu · Shanghai, China</p>
 </footer>
