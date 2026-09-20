@@ -21,7 +21,10 @@ redirect_from:
     <p class="availability">I have been interning at the Wizard Intelligence Learning Lab (WILL) as a post-training researcher since July 2026.</p>
   </div>
   <figure class="profile-hero__portrait">
-    <img src="/images/profile-photo.jpg" alt="Portrait of Xiaoyang Liu" width="2122" height="2484">
+    <picture>
+      <source media="(max-width: 700px)" srcset="/images/profile-photo-mobile.jpg">
+      <img src="/images/profile-photo-desktop.jpg" alt="Portrait of Xiaoyang Liu" width="800" height="1000">
+    </picture>
   </figure>
 </section>
 
